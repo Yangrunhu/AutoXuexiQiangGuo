@@ -3,6 +3,9 @@
 Python自动化代码
 
 **PS：程序已打包，在Win7 32位和64位下测试通过**
+**Mongodb文件过大，没有上传完成，会导致错误，请自行到 http://downloads.mongodb.org/win32/mongodb-win32-i386-3.2.22.zip 下载，将文件夹命名为mongodb，覆盖原文件。**如下图所示：
+
+![image_1d7b8p6v1tkjqha108pqvj1tvd9.png-31.2kB][8]
 
 # 2018年3月27日版本
 ## 1 配置运行
@@ -48,6 +51,7 @@ Python自动化代码
   [5]: http://static.zybuluo.com/a5e64332/ope1bc8keppdkbrazccrcxwo/image_1d793kukc1nup2pt1fubd5u66m1t.png
   [6]: http://static.zybuluo.com/a5e64332/trp0xrnd8her10e5monf7e4q/image_1d793pfh01s7e7a18mlde5qv02a.png
   [7]: http://static.zybuluo.com/a5e64332/qxpqn3bw19s6fa2zujqooik2/image_1d794bsb810f61tkj13qk1kfdrth2n.png
+  [8]: http://static.zybuluo.com/a5e64332/26m8oyaou8n5qc5chtw1mc98/image_1d7b8p6v1tkjqha108pqvj1tvd9.png
 
 # 2019年3月23日更新版本
 ## 1 配置运行
